@@ -1,0 +1,20 @@
+Como en el ejemplo 4, podemos asignar cualquier valor a z. Por tanto, las soluciones del 
+sistema están definidas por x 5 0, y 5 2a 1 3, z 5 a, donde a es cualquier número real.
+Eliminación de Gauss-Jordan En el método de eliminación de Gauss-Jordan, las operaciones 
+elementales entre filas se continúan hasta obtener una matriz en la forma escalonada reducida 
+por filas. Las matrices escalonadas reducidas por filas tienen las tres propiedades i) a iii) 
+de la definición 14.5.1 y una adicional:
+iv) Una columna que contiene 1 como primera entrada tiene ceros en todas las demás posiciones.
+
+Cabe señalar que en la eliminación gaussiana nos detenemos cuando hemos obtenido una matriz aumentada 
+en forma escalonada por filas. En otras palabras, mediante secuencias diferentes de operaciones entre 
+filas podemos llegar a distintas formas escalonadas por filas. Este método requiere después de la sustitución 
+hacia atrás. En la eliminación de Gauss-Jordan terminamos cuando hemos obtenido la matriz aumentada en forma
+ escalonada reducida por filas. Toda secuencia de operaciones entre filas producirá la misma matriz aumentada 
+en forma escalonada reducida por filas. Este método no necesita sustitución hacia atrás; la solución del sistema 
+será evidente por inspección de la última matriz. En términos de las ecuaciones del sistema original, nuestro 
+objetivo es simplemente igualar a 1 el coeficiente de la primera variable de la primera ecuación* y luego usar 
+múltiplos de esa ecuación para eliminar la variable de las demás ecuaciones. El proceso se repite con las otras variables.
+
+
+PAG. 632

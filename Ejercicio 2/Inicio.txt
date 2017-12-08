@@ -1,0 +1,12 @@
+En la sección anterior vimos que algunas ecuaciones cuadráticas no tienen solución real.
+Por ejemplo, x2 1 1 5 0 no tiene raíces reales porque no hay número real x tal que x2 5 21. 
+En esta sección estudiaremos el conjunto de los números complejos, que contiene soluciones a 
+ecuaciones como x2 1 1 5 0. El conjunto de los números complejos C contiene el conjunto de los 
+números reales R y los números cuyos cuadrados son negativos. 
+
+Para obtener los números complejos C, 
+comenzamos por definir la unidad imaginaria, que se representa con la letra i, como el número que satisface i2 5 21
+Es común escribir
+  i 5 !21. 
+
+PAG.138
