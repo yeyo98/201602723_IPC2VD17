@@ -1,0 +1,12 @@
+¿Qué entiende como "commit"? 
+	Los commit son para guardar los cambios que se han hecho en nuestro proyecto
+	pero solo se guardan a nivel local y no al nivel del repositorio
+
+¿Qué entiende como "merge"? 
+	Sirve para unificar uno o mas ramas dentro de una rama activa
+
+¿Cuál es la diferencia entre "Pull" y "Push"? 
+	El push sirve para guardar los cambios que se han hecho en nuestro proyecto
+	al nivel del repositorio, en cambio el pull guardar los cambios a nivel local
+	pero los coloca en otra rama para al final unificarla, basicamente es la combinacion
+	del git fetch y git merge
