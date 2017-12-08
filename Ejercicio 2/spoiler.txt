@@ -1,20 +1,20 @@
-Como en el ejemplo 4, podemos asignar cualquier valor a z. Por tanto, las soluciones del 
-sistema están definidas por x 5 0, y 5 2a 1 3, z 5 a, donde a es cualquier número real.
-Eliminación de Gauss-Jordan En el método de eliminación de Gauss-Jordan, las operaciones 
-elementales entre filas se continúan hasta obtener una matriz en la forma escalonada reducida 
-por filas. Las matrices escalonadas reducidas por filas tienen las tres propiedades i) a iii) 
-de la definición 14.5.1 y una adicional:
-iv) Una columna que contiene 1 como primera entrada tiene ceros en todas las demás posiciones.
+Cm n l jmpl 4, pdms sgnr clqr vlr  z. Pr tnt, ls slcns dl 
+sstm stán dfnds pr x 5 0, y 5 2 1 3, z 5 , dnd  s clqr númr rl.
+lmncón d Gss-Jrdn n l métd d lmncón d Gss-Jrdn, ls prcns 
+lmntls ntr fls s cntnún hst btnr n mtrz n l frm sclnd rdcd 
+pr fls. Ls mtrcs sclnds rdcds pr fls tnn ls trs prpdds )  ) 
+d l dfncón 14.5.1 y n dcnl:
+v) n clmn q cntn 1 cm prmr ntrd tn crs n tds ls dmás pscns.
 
-Cabe señalar que en la eliminación gaussiana nos detenemos cuando hemos obtenido una matriz aumentada 
-en forma escalonada por filas. En otras palabras, mediante secuencias diferentes de operaciones entre 
-filas podemos llegar a distintas formas escalonadas por filas. Este método requiere después de la sustitución 
-hacia atrás. En la eliminación de Gauss-Jordan terminamos cuando hemos obtenido la matriz aumentada en forma
- escalonada reducida por filas. Toda secuencia de operaciones entre filas producirá la misma matriz aumentada 
-en forma escalonada reducida por filas. Este método no necesita sustitución hacia atrás; la solución del sistema 
-será evidente por inspección de la última matriz. En términos de las ecuaciones del sistema original, nuestro 
-objetivo es simplemente igualar a 1 el coeficiente de la primera variable de la primera ecuación* y luego usar 
-múltiplos de esa ecuación para eliminar la variable de las demás ecuaciones. El proceso se repite con las otras variables.
+Cb sñlr q n l lmncón gssn ns dtnms cnd hms btnd n mtrz mntd 
+n frm sclnd pr fls. n trs plbrs, mdnt scncs dfrnts d prcns ntr 
+fls pdms llgr  dstnts frms sclnds pr fls. st métd rqr dspés d l ssttcón 
+hc trás. n l lmncón d Gss-Jrdn trmnms cnd hms btnd l mtrz mntd n frm
+ sclnd rdcd pr fls. Td scnc d prcns ntr fls prdcrá l msm mtrz mntd 
+n frm sclnd rdcd pr fls. st métd n ncst ssttcón hc trás; l slcón dl sstm 
+srá vdnt pr nspccón d l últm mtrz. n térmns d ls ccns dl sstm rgnl, nstr 
+bjtv s smplmnt glr  1 l cfcnt d l prmr vrbl d l prmr ccón* y lg sr 
+múltpls d s ccón pr lmnr l vrbl d ls dmás ccns. l prcs s rpt cn ls trs vrbls.
 
 
 PAG. 632
