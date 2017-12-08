@@ -1,0 +1,8 @@
+Metodo de cascada
+
+Él método de cascada es considerado como el enfoque clásico para el ciclo de vida del 
+desarrollo de sistemas, se puede decir que es un método puro que implica un desarrollo 
+rígido. está es una secuencia de actividades(o etapas) que consisten en el análisis de 
+requerimientos, él diseño ,la implementación, la integración y las pruebas.
+Es caracterizado por ordenar de manera rigurosa las etapas del ciclo de vida de software, 
+dado que el comienzo de cada etapa debe esperar a la finalización de la inmediata anterior. 

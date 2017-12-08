@@ -1,0 +1,17 @@
+Ciclo de vida de un software
+
+-ANALISIS: El analisis es la etapa primaria del ciclo de vida del software en ella describa.
+ Es importante tomas los requerimiento del cliente y las necesidades del cliente
+
+-DISEÑO: En esta etapa se inicia el blue_print del software
+
+-DESARROLLO: En esta etapa se comienza con la programacion del codigo basados en el analisis
+ y el diseño previamente hechos
+
+-PRUEBAS: En esta realizamos las pruebas respectivas para encontrar posibles errores
+
+-IMPLEMENTACION: Aquí se instala el software en máquinas de clientes. A veces, el software necesita 
+ instalar configuraciones para el consumidor final con posterioridad.
+
+-MANTENIMIENTO: Esta fase confirma el funcionamiento del software en términos de más eficiencia y 
+ menos errores. Si se requiere, los usuarios se forman, o se les presta documentación sobre como operar y como mantenerlo en funcionamiento.

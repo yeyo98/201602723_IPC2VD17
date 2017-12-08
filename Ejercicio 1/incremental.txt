@@ -1,0 +1,8 @@
+Metodología iterativo incremental
+
+Si en un ciclo de vida en cascada las fases del ciclo de vida (requisitos, análisis, 
+diseño, etc.) se realizan (en teoría) una única vez, y el inicio de una fase no 
+comienza hasta que termina la fase que le precede, en un ciclo de vida iterativo e 
+incremental se va liberando partes del producto (prototipos) periódicamente, en cada 
+iteración, y cada nueva versión, normalmente, aumenta la funcionalidad y mejora en 
+calidad respecto a la anterior.
